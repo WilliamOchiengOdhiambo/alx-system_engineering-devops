@@ -1,1 +1,1 @@
-This folder contains a file with a script showing the absolute path directory command
+how to use different commands to perform tasks
